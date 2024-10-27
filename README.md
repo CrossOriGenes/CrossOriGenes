@@ -6,17 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crossorigenes&label=Profile%20views&color=0e75b6&style=flat" alt="crossorigenes" /> </p>
 
 
-- 🔭 I’m currently working on [AdoPet](https://adopet244.netlify.app)
+- 🔭 I’m currently working on [YourImageResizer]([https://adopet244.netlify.app](https://github.com/Sutirtha9/image-resizer.git))
 
 - 🌱 I’m currently learning **React Native, Ruby, Flutter**
 
-- 👨‍💻 All of my projects are available at [http://crossorigenes.dev.com](http://crossorigenes.dev.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://www.crossorigenes.works)
 
 - 💬 Ask me about **react, MongoDB, Node, Python, PHP, MySQL**
 
 - 📫 How to reach me **dsnehodipto@gmail.com**
 
-- 📄 Know about my experiences [http://crossorigenes.dev.com/CV](http://crossorigenes.dev.com/CV)
+- 📄 Know about my experiences [My-CV](https://www.crossorigenes.works/downloads)
 
 - ⚡ Fun fact **people says that i look somewhat similar to the famous character "TinTin"!**
 
