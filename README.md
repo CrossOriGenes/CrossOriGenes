@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crossorigenes&label=Profile%20views&color=0e75b6&style=flat" alt="crossorigenes" /> </p>
 
 
-- 🔭 I’m currently working on [YourImageResizer]([https://adopet244.netlify.app](https://github.com/Sutirtha9/image-resizer.git)
+- 🔭 I’m currently working on [YourImageResizer](https://github.com/Sutirtha9/image-resizer.git)
 
 - 🌱 I’m currently learning **React Native, Ruby, Flutter**
 
