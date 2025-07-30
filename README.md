@@ -6,19 +6,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crossorigenes&label=Profile%20views&color=0e75b6&style=flat" alt="crossorigenes" /> </p>
 
 
-- 🔭 I’m currently working on [ROOMZ](https://github.com/CrossOriGenes/roomz.git)
-
-- 🌱 I’m currently learning **React Native, Ruby, Flutter**
+- 🌱 I’m currently learning **React Native, Flask**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://www.crossorigenes.works)
 
-- 💬 Ask me about **react, MongoDB, Node, Python, PHP, MySQL**
+- 💬 Ask me about **React, MongoDB, Node, Python, Java, MySQL**
 
 - 📫 How to reach me **dsnehodipto@gmail.com**
 
 - 📄 Know about my experiences [My-CV](https://www.crossorigenes.works/downloads)
 
-- ⚡ Fun fact **people says that i look somewhat similar to the famous character "TinTin"!**
+- ⚡ Fun fact **AI: I'll take your job! Me: Oh really? Lets see..!**
 
 <br><br><br><br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crossorigenes" alt="crossorigenes" /></a> </p>
