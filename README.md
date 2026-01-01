@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crossorigenes&label=Profile%20views&color=0e75b6&style=flat" alt="crossorigenes" /> </p>
 <br>
-- 🌱 I’m currently learning **Android, FastAPI**\
-- 👨‍💻 All of my projects are available at ![My Portfolio](https://snehodipto-devs.vercel.app)\
+- 🌱 I’m currently learning **Android, FastAPI**<br>
+- 👨‍💻 All of my projects are available at <a href="https://snehodipto-devs.vercel.app">My Portfolio</a> <br>
 - 💬 Ask me about **React, MongoDB, Node, Python, Java, MySQL**
 
 <br><br>
