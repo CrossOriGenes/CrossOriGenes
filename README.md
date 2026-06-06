@@ -27,4 +27,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=CrossOriGenes&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=CrossOriGenes&icon=2&color=13)](https://visitcount.itsvg.in)
